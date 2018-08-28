@@ -1,0 +1,31 @@
+
+  [
+      {
+    "stdID": "0106",
+    "stdName":"Mirwaise",
+    "stdAge":"23",
+    "stdGender":"Male",
+    "stdNo":"12345",    
+    "stdStreet":"786 Street",
+    "stdCity":"Riyadh",
+    "stdCountry":"Saudi Arabia",
+    "stdPostal":"98765",
+    "stdDept":"Computer Science",
+    "stdSemester":"8",
+    "stdMajor":"Web Programming"
+    },
+    {
+    "stdID": "0107",
+    "stdName":"kfsf",
+    "stdAge":"45",
+    "stdGender":"female",
+    "stdNo":"12345",    
+    "stdStreet":"786 Street",
+    "stdCity":"use",
+    "stdCountry":"america",
+    "stdPostal":"98765",
+    "stdDept":"Computer Science",
+    "stdSemester":"8",
+    "stdMajor":"Web Programming"
+    }
+]
